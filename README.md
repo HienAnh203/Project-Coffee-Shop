@@ -1,0 +1,3 @@
+Shop bán đồ uống
+Web có module login, register, trang home, trang quản lý sản phẩm, xem chi tiết sản phẩm,....
+Có liên kiển với Microsoft SQL Server 
